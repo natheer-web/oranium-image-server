@@ -1,0 +1,10 @@
+{
+  "name": "dua-image-server",
+  "version": "1.0.0",
+  "description": "Free Vercel serverless function that turns dua text into an Instagram-ready image URL",
+  "dependencies": {
+    "@sparticuz/chromium": "^123.0.0",
+    "puppeteer-core": "^22.0.0",
+    "@vercel/blob": "^0.23.0"
+  }
+}
